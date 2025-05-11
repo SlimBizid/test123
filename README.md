@@ -44,8 +44,7 @@
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html)  installed on your computer. From your command line:
-[comment]: <> (behy, ki bsh tji taamel el readme mtaa symfony, you need to add nodejs khater staamalna npm lel tailwin[Node.js](https://nodejs.org/en/download/) )
-[comment]: <> (w baad t7otha louta, npm install w baadha npm run watch (zouz lezmin))
+<!-- [comment]: <> (behy, ki bsh tji taamel el readme mtaa symfony, you need to add nodejs khater staamalna npm lel tailwin[Node.js](https://nodejs.org/en/download/) ) [comment]: <> (w baad t7otha louta, npm install w baadha npm run watch (zouz lezmin)) -->
 
 ```bash
 # Clone this repository
